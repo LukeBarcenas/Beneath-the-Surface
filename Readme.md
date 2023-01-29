@@ -1,8 +1,11 @@
 =========== Beneath The Surface ===========
+
 Creators: Luke Barcenas, Eli Balan
 Event: Swamphacks IX
 
+
 =============== Description ===============
+
 This website places you in the depths of 
 the ocean, exploring different facts about 
 our largest bodies of water, all while 
@@ -11,6 +14,7 @@ the cursor emits light, limiting visibility
 and having the user need to move and explore 
 the depths of the website. What things can 
 be learned in the depths beneath the surface?
+
 
 ============= How it was Made ==============
 
