@@ -1,5 +1,0 @@
-This website places you in the depths of the ocean, exploring different facts about our largest bodies of water, all while controlling your submarine. On this site, the cursor emits light, limiting visibility and having the user need to move and explore the depths of the website.
-
-The header displays our project name and utilizes a flexbox to encapsulate the title. The body consists of many differently spaced pieces of information that explain different facts about the ocean's mysteries. The footer also utilizes a flexbox to encapsulate the website creators, team name, and hackathon title. The main piece of the site is the responsive mouse flashlight, where the whole website is a 99% opacity display that is only lit around the mouse. Also, the mouse is formatted to be an image of a submarine, further immersing the user.
-
-The flashlight is coded with CSS and javascript, where the CSS fills the page with darkness and the mouse with light, and the JavaScript moves the flashlight with mouse movements.
